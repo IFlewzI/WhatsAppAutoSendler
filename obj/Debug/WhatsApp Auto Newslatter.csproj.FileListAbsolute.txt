@@ -1,0 +1,14 @@
+E:\Petr PC\Projects\VS 2019\WhatsApp Auto Newslatter\obj\Debug\WhatsApp Auto Newslatter.csproj.AssemblyReference.cache
+E:\Petr PC\Projects\VS 2019\WhatsApp Auto Newslatter\obj\Debug\WhatsApp Auto Newslatter.csproj.CoreCompileInputs.cache
+E:\Petr PC\Projects\VS 2019\WhatsApp Auto Newslatter\bin\Debug\WhatsApp Auto Newslatter.exe.config
+E:\Petr PC\Projects\VS 2019\WhatsApp Auto Newslatter\bin\Debug\WhatsApp Auto Newslatter.exe
+E:\Petr PC\Projects\VS 2019\WhatsApp Auto Newslatter\bin\Debug\WhatsApp Auto Newslatter.pdb
+E:\Petr PC\Projects\VS 2019\WhatsApp Auto Newslatter\obj\Debug\WhatsApp Auto Newslatter.exe
+E:\Petr PC\Projects\VS 2019\WhatsApp Auto Newslatter\obj\Debug\WhatsApp Auto Newslatter.pdb
+C:\Users\Информатик\source\repos\WhatsAppAutoSendler\bin\Debug\WhatsApp Auto Newslatter.exe.config
+C:\Users\Информатик\source\repos\WhatsAppAutoSendler\bin\Debug\WhatsApp Auto Newslatter.exe
+C:\Users\Информатик\source\repos\WhatsAppAutoSendler\bin\Debug\WhatsApp Auto Newslatter.pdb
+C:\Users\Информатик\source\repos\WhatsAppAutoSendler\obj\Debug\WhatsApp Auto Newslatter.csproj.AssemblyReference.cache
+C:\Users\Информатик\source\repos\WhatsAppAutoSendler\obj\Debug\WhatsApp Auto Newslatter.csproj.CoreCompileInputs.cache
+C:\Users\Информатик\source\repos\WhatsAppAutoSendler\obj\Debug\WhatsApp Auto Newslatter.exe
+C:\Users\Информатик\source\repos\WhatsAppAutoSendler\obj\Debug\WhatsApp Auto Newslatter.pdb
